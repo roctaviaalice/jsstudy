@@ -8,7 +8,7 @@ For numbers which are multiples of both three and five print FizzBuzz.
 
 //print function
 var tp = function(someodd) {
-    return console.log(someodd);
+    console.log(someodd);
 };
 
 //fizzbuzz time
